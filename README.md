@@ -17,6 +17,10 @@ A robust, cloud-based anomaly detection system leveraging the Isolation Forest a
 - Automated pipeline for continuous monitoring
 - Interactive dashboards for visualization
 
+## 🚀 Getting Started
+
+Data Source: [Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
+
 ## 🏗️ Architecture
 
 ```plaintext
