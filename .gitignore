@@ -165,7 +165,7 @@ reference.ipynb
 #.idea/
 
 aws_lambda.py
-aws_main.ipynb
+aws_main_reference.ipynb
 reference.ipynb
 test.ipynb
 Steps_for_the_AWS_Implementation.txt
